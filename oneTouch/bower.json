@@ -1,0 +1,23 @@
+{
+  "name": "quizrt-rebuild",
+  "description": "RT Quiz Game where you can play against one or more players.",
+  "main": "index.js",
+  "authors": [
+    "Sagar Patke <sagarpatke@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stackroute/QuizRT-Rebuild",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "common-ui/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-roboto": "^0.0.2",
+    "flexboxgrid": "^6.3.0"
+  }
+}
